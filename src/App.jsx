@@ -1,6 +1,7 @@
 import Header from '/src/components/Header/Header';
 import Intro from './components/Intro/Intro';
 import Companies from './components/Companies/Companies';
+import ProductCategories from './components/Category/ProductCategories';
 
 function App() {
   return (
@@ -8,7 +9,7 @@ function App() {
       <Header />
       <Intro />
       <Companies />
-      {/* <ProductSlider/> */}
+      <ProductCategories />
     </div>
   );
 }

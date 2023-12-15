@@ -63,7 +63,8 @@ const Intro = () => {
         <div className='flexCenter intro-right'>
           <div className='image-container'>
             <img src='intro.png' alt='Intro image' />
-          </div>
+          </div> 
+          +
         </div>
       </div>
     </section>

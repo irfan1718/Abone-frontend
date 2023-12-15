@@ -20,7 +20,7 @@ const Value = () => {
         {/* Left */}
         <div className='v-left'>
           <div className='image-container'>
-            <img src='./cnc.png' alt='Value' />
+            <img src='./vmc.png' alt='Value' />
           </div>
         </div>
         {/* Right */}
